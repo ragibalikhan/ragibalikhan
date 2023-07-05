@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ragibali84@gmail.com**
 
-- 📄 Know about my experiences [ragib-ali.netlify.app/credentials.html](ragib-ali.netlify.app/credentials.html)
+- 📄 Know about my experiences [Credentials](ragib-ali.netlify.app/credentials)
 
 - ⚡ Fun fact **I have a relentless curiosity that drives me to continuously learn and grow in my craft. Whether it's exploring new frameworks, mastering emerging technologies, or staying updated on the latest cyber threats, I strive to stay ahead of the curve.**
 
