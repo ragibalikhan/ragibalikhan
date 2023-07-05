@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [ragib-ali.netlify.app](ragib-ali.netlify.app)
 
-- 📝 I regularly write articles on [blogs](ragib-ali.netlify.app/blogs)
+- 📝 I regularly write articles on [blogs](ragib-ali.netlify.app/blogs){:target="_blank"}
 
 - 💬 Ask me about **Cyber security, Python, Android/IOS development**
 
 - 📫 How to reach me **ragibali84@gmail.com**
 
-- 📄 Know about my experiences [Credentials](ragib-ali.netlify.app/credentials)
+- 📄 Know about my experiences [Credentials](ragib-ali.netlify.app/credentials){:target="_blank"}
 
 - ⚡ Fun fact **I have a relentless curiosity that drives me to continuously learn and grow in my craft. Whether it's exploring new frameworks, mastering emerging technologies, or staying updated on the latest cyber threats, I strive to stay ahead of the curve.**
 
