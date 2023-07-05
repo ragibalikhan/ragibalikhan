@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [ragib-ali.netlify.app](ragib-ali.netlify.app)
 
-- 📝 I regularly write articles on [ragib-ali.netlify.app/blogs](ragib-ali.netlify.app/blogs)
+- 📝 I regularly write articles on [blogs](ragib-ali.netlify.app/blogs)
 
 - 💬 Ask me about **Cyber security, Python, Android/IOS development**
 
