@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Swift**
 
-- 👨‍💻 All of my projects are available at [ragib-ali.netlify.app](https://ragib-ali.netlify.app)
+- 👨‍💻 All of my projects are not available at [ragib-ali.netlify.app](https://ragib-ali.netlify.app) because I haven't updated it for quite a while 😅.
 
 - 📝 I regularly write articles on [blogs](https://ragib-ali.netlify.app/blogs)
 
