@@ -169,12 +169,7 @@
 
 ---
 
-## `> ./trophies --display`
-<div align="center">
 
-![Trophies](./profile/trophy.svg)
-
-</div>
 
 ---
 
