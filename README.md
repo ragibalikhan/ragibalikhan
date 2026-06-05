@@ -163,7 +163,7 @@
 
 ![GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ragibalikhan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8)
+![GitHub Streak](./profile/streak.svg)
 
 </div>
 
@@ -172,7 +172,7 @@
 ## `> ./trophies --display`
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ragibalikhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![Trophies](./profile/trophy.svg)
 
 </div>
 
