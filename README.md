@@ -172,7 +172,7 @@
 ## `> ./trophies --display`
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ragibalikhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ragibalikhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
