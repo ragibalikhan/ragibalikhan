@@ -159,21 +159,17 @@
 ---
 
 ## `> ./stats.sh`
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragibalikhan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragibalikhan&theme=github_dark&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragibalikhan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ragibalikhan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8)
 
 </div>
 
 ---
 
 ## `> ./trophies --display`
-
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ragibalikhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
