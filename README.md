@@ -15,7 +15,7 @@
 
 *Building intelligent, secure systems — LLM pipelines, autonomous agents, and exploit-resistant applications.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ragib--ali.netlify.app-6366f1?style=flat-square&logo=netlify&logoColor=white)](https://ragib-ali.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ragib--ali.netlify.app-6366f1?style=flat-square&logo=netlify&logoColor=white)](https://ragibali.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ragibali-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragibali/)
 [![X](https://img.shields.io/badge/X-@RagibAliKhan5-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ragibalikhan5)
 [![Instagram](https://img.shields.io/badge/Instagram-ragib__ali__khan-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ragib_ali_khan)
@@ -179,7 +179,7 @@
 
 *Open to AI research collabs, LLM engineering roles, and building things that matter.*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-6366f1?style=for-the-badge)](https://ragib-ali.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-6366f1?style=for-the-badge)](https://ragibali.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/ragibali/)
 [![X](https://img.shields.io/badge/🐦_Follow_on_X-000000?style=for-the-badge)](https://x.com/ragibalikhan5)
 
